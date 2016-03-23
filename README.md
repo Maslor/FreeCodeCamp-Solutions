@@ -59,4 +59,4 @@ Merges contents of up to three integer arrays.
 #### [where.js](https://github.com/Maslor/js-algorithms/blob/master/where.js)
 Returns the lowest index at which a value (second argument) should be inserted into an array (first argument) once it has been sorted.
 #### [whereArtThou.js](https://github.com/Maslor/js-algorithms/blob/master/whereArtThou.js)
-Make a function that looks through an array of objects (first argument) and returns an array of all objects that have matching property and value pairs (second argument).
+Looks through an array of objects (first argument) and returns an array of all objects that have matching property and value pairs (second argument).
