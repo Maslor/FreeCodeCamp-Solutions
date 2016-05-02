@@ -60,3 +60,11 @@ Merges contents of up to three integer arrays.
 Returns the lowest index at which a value (second argument) should be inserted into an array (first argument) once it has been sorted.
 #### [whereArtThou.js](https://github.com/Maslor/js-algorithms/blob/master/whereArtThou.js)
 Looks through an array of objects (first argument) and returns an array of all objects that have matching property and value pairs (second argument).
+#### [addTogether.js](https://github.com/Maslor/js-algorithms/blob/master/addTogether.js)
+Create a function that sums two arguments together. If only one argument is provided, then return a function that expects one argument and returns the sum.
+#### [smallestCommons.js](https://github.com/Maslor/js-algorithms/blob/master/smallestCommons.js)
+Find the smallest common multiple of the provided parameters that can be evenly divided by both, as well as by all sequential numbers in the range between these parameters.
+#### [dropElements.js](https://github.com/Maslor/js-algorithms/blob/master/dropElements.js)
+Drop the elements of an array (first argument), starting from the front, until the predicate (second argument) returns true.
+#### [steamrollArray.js](https://github.com/Maslor/js-algorithms/blob/master/steamrollArray.js)
+Flatten a nested array. You must account for varying levels of nesting.
