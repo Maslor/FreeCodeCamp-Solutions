@@ -68,3 +68,5 @@ Find the smallest common multiple of the provided parameters that can be evenly 
 Drop the elements of an array (first argument), starting from the front, until the predicate (second argument) returns true.
 #### [steamrollArray.js](https://github.com/Maslor/js-algorithms/blob/master/steamrollArray.js)
 Flatten a nested array. You must account for varying levels of nesting.
+#### [truthCheck.js](https://github.com/Maslor/js-algorithms/blob/master/truthCheck.js)
+Check if the predicate (second argument) is truthy on all elements of a collection (first argument).
